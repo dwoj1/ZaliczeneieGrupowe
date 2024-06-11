@@ -1,0 +1,28 @@
+C:\c#\study\Zaliczenie grupowe\bin\Debug\net8.0\Zaliczenie grupowe.exe
+C:\c#\study\Zaliczenie grupowe\bin\Debug\net8.0\Zaliczenie grupowe.deps.json
+C:\c#\study\Zaliczenie grupowe\bin\Debug\net8.0\Zaliczenie grupowe.runtimeconfig.json
+C:\c#\study\Zaliczenie grupowe\bin\Debug\net8.0\Zaliczenie grupowe.dll
+C:\c#\study\Zaliczenie grupowe\bin\Debug\net8.0\Zaliczenie grupowe.pdb
+C:\c#\study\Zaliczenie grupowe\obj\Debug\net8.0\Zaliczenie grupowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\study\Zaliczenie grupowe\obj\Debug\net8.0\Zaliczenie grupowe.AssemblyInfoInputs.cache
+C:\c#\study\Zaliczenie grupowe\obj\Debug\net8.0\Zaliczenie grupowe.AssemblyInfo.cs
+C:\c#\study\Zaliczenie grupowe\obj\Debug\net8.0\Zaliczenie grupowe.csproj.CoreCompileInputs.cache
+C:\c#\study\Zaliczenie grupowe\obj\Debug\net8.0\Zaliczenie grupowe.dll
+C:\c#\study\Zaliczenie grupowe\obj\Debug\net8.0\refint\Zaliczenie grupowe.dll
+C:\c#\study\Zaliczenie grupowe\obj\Debug\net8.0\Zaliczenie grupowe.pdb
+C:\c#\study\Zaliczenie grupowe\obj\Debug\net8.0\Zaliczenie grupowe.genruntimeconfig.cache
+C:\c#\study\Zaliczenie grupowe\obj\Debug\net8.0\ref\Zaliczenie grupowe.dll
+C:\c#\study\Zaliczenie grupowe_ nowe\bin\Debug\net8.0\Zaliczenie grupowe.exe
+C:\c#\study\Zaliczenie grupowe_ nowe\bin\Debug\net8.0\Zaliczenie grupowe.deps.json
+C:\c#\study\Zaliczenie grupowe_ nowe\bin\Debug\net8.0\Zaliczenie grupowe.runtimeconfig.json
+C:\c#\study\Zaliczenie grupowe_ nowe\bin\Debug\net8.0\Zaliczenie grupowe.dll
+C:\c#\study\Zaliczenie grupowe_ nowe\bin\Debug\net8.0\Zaliczenie grupowe.pdb
+C:\c#\study\Zaliczenie grupowe_ nowe\obj\Debug\net8.0\Zaliczenie grupowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\study\Zaliczenie grupowe_ nowe\obj\Debug\net8.0\Zaliczenie grupowe.AssemblyInfoInputs.cache
+C:\c#\study\Zaliczenie grupowe_ nowe\obj\Debug\net8.0\Zaliczenie grupowe.AssemblyInfo.cs
+C:\c#\study\Zaliczenie grupowe_ nowe\obj\Debug\net8.0\Zaliczenie grupowe.csproj.CoreCompileInputs.cache
+C:\c#\study\Zaliczenie grupowe_ nowe\obj\Debug\net8.0\Zaliczenie grupowe.dll
+C:\c#\study\Zaliczenie grupowe_ nowe\obj\Debug\net8.0\refint\Zaliczenie grupowe.dll
+C:\c#\study\Zaliczenie grupowe_ nowe\obj\Debug\net8.0\Zaliczenie grupowe.pdb
+C:\c#\study\Zaliczenie grupowe_ nowe\obj\Debug\net8.0\Zaliczenie grupowe.genruntimeconfig.cache
+C:\c#\study\Zaliczenie grupowe_ nowe\obj\Debug\net8.0\ref\Zaliczenie grupowe.dll
